@@ -47,8 +47,8 @@ Hands-on cloud security labs, AWS configurations, and security best practices.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fathimashan&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimashan&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathimashan&show_icons=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimashan&layout=compact" height="170" />
 </p>
 
 ## 🔥 Contribution Streak
