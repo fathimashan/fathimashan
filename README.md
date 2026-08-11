@@ -44,13 +44,6 @@ A responsive portfolio website showcasing my skills, certifications, and project
 ### ☁️ Cloud Security Projects
 Hands-on cloud security labs, AWS configurations, and security best practices.
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathimashan&show_icons=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimashan&layout=compact" height="170" />
-</p>
-
 ## 🔥 Contribution Streak
 
 <p align="center">
