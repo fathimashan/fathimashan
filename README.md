@@ -47,22 +47,14 @@ Hands-on cloud security labs, AWS configurations, and security best practices.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <i>A quick overview of my GitHub activity and programming languages.</i>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fathimashan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimashan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fathimashan&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimashan&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <i>Consistency is the key to continuous learning.</i>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=fathimashan&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=fathimashan&theme=github-dark&hide_border=true" />
 </p>
 
 ## 📫 Connect With Me
